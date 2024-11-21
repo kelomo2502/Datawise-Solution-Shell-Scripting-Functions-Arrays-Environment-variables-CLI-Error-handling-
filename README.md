@@ -19,3 +19,4 @@ One of DataWise Solutions' clients, a burgeoning e-commerce startup, is looking 
 ## Specific requirements
 
 To meet the client's needs and ensure a practical learning experience, DataWise Solutions plans to develop a script that automates the setup of EC2 instances and S3 buckets. This script will incorporate the 5 critical shell scripting concepts previously identified:
+
